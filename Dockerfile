@@ -5,6 +5,7 @@ COPY . /app
 # System dependencies
 RUN apt-get update && apt-get install -y \
     gcc g++ coinor-cbc \
+    xclip xsel \
     && rm -rf /var/lib/apt/lists/*
 
 # Packages installation
