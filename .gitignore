@@ -1,0 +1,5 @@
+__pycache__
+.env
+saved_info.txt
+target_audience.txt
+.DS_Store
