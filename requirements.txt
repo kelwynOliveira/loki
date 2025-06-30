@@ -2,4 +2,4 @@ streamlit
 google-genai
 python-dotenv
 pyperclip
-PIL
+pillow
